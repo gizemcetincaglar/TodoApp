@@ -2,6 +2,8 @@
 
 Bu proje, backend staj başvurusu kapsamında geliştirilmiş bir RESTful TO-DO uygulamasıdır. Uygulama Go dilinde [Fiber](https://gofiber.io) framework'ü kullanılarak yazılmıştır. Kullanıcılar yapılacaklar listeleri oluşturabilir, bu listelere adımlar ekleyebilir ve tamamlayarak ilerleyebilirler.
 
+**🔗 Canlı Demo:** [https://todoapp-o6y7.onrender.com](https://todoapp-o6y7.onrender.com)
+
 ---
 
 ## Teknolojiler
